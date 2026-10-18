@@ -1,5 +1,5 @@
 # Whcm_monitor
-Monitor the number of remaining piano rooms.
+
 琴房监控 Piano Room Monitor
 ============================
 
